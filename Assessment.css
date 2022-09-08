@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-item .nav-link {
+  font-size: 20px;
+  color: #ffffff;
+}
+form {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 100px;
+}
+form img {
+  width: 20px;
+  height: 17.66px;
+}
+form li {
+  margin-left: 20px;
+}
+form button {
+  size: 16px;
+  margin-left: 6px;
+}
+.card {
+  border-radius: 13px;
+}
+.card-body a {
+  width: 200px;
+}
+div.examplediv {
+  margin-left: 120px;
+  width: 100px;
+  height: 100px;
+  background-color: #ffffff;
+  border-radius: 34px;
+  margin-top: 70px;
+  /* Rotate div */
+  -ms-transform: rotate(45deg); /* IE 9 */
+  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+  transform: rotate(45deg);
+}
+
+p.exampletext {
+  /* Rotate p back so that only div is rotated. */
+  -ms-transform: rotate(-45deg); /* IE 9 */
+  -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+  transform: rotate(-45deg);
+}
+
+.exampletext img {
+  margin-top: 19px;
+  margin-left: 9px;
+}
+.icon-style {
+  margin-top: 10px;
+}
+.icon-style h1 {
+  font-size: 35px;
+  color: white;
+}
+.icon-style p {
+  text-align: center;
+  color: whitesmoke;
+}
+.cardrow img {
+  margin-top: 10px;
+}
+.cardrow a {
+  text-decoration: none;
+  color: black;
+}
+.cardrow .card {
+  height: 370px;
+}
+.oval {
+  height: 250px;
+  background: #d9d9d9;
+  border-bottom-left-radius: 60%;
+  border-bottom-right-radius: 60%;
+  margin-left: -50px;
+  margin-right: -0px;
+}
+.rectangle {
+  background: #454545;
+}
+.list-header {
+  font-family: roboto;
+  font-size: 18px;
+  color: #ffffff;
+}
+li {
+  color: rgba(245, 245, 245, 0.761);
+  list-style: none;
+  margin: 10px;
+}
+
+.footer-content {
+  color: #ffffff;
+  font-size: 20px;
+}
+.logo-style {
+  margin-right: 10px;
+  margin-top: -80px;
+}
+.accordion-item h2 {
+  font-family: "Roboto";
+  font-size: 88px;
+  /* or 111% */
+
+  /* Grey/Midnight */
+
+  color: #121212;
+}
+.accordion-header button {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 20px;
+  /* or 111% */
+
+  letter-spacing: -0.02em;
+
+  /* Grey/Midnight */
+
+  color: #121212;
+
+  transform: rotate(0.01deg);
+}
+.accordion {
+  margin: 80px;
+}
+.accordion-button:focus {
+  box-shadow: none;
+  border-color: rgba(0, 0, 0, 0.125);
+}
+
+/* Responsive  */
+
+@media only screen and (max-width: 1024px) {
+  .nav-side-img {
+    display: flex;
+    flex-direction: column;
+    width: 221px;
+    height: 171px;
+    margin-top: 100px;
+    margin-right: 150px;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 512px) {
+  .nav-side-img {
+    display: flex;
+    flex-direction: column;
+    width: 121px;
+    height: 71px;
+    margin-top: 50px;
+    margin-right: 75px;
+    align-items: center;
+  }
+}

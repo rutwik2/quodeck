@@ -1,0 +1,1314 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+    width: 1500px;
+    margin:0%;
+    box-sizing: border-box;
+    display: block;
+}
+/*  -----> div-1  <-----  */
+
+.container-fluid {
+  background-color: #454545;
+  width: 1500px;
+  height: 650px;
+}
+
+img {
+  height: 55px;
+  width: 206px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+.nav-item > a {
+  color: white;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 10px;
+  margin-left: 5px;
+}
+
+.nav-item a img {
+  margin-left: 2px;
+}
+
+.button {
+  font-family: "Roboto";
+  height: 26px;
+  width: 130px;
+  left: 0px;
+  top: 0px;
+  font-size: 13px;
+  font-weight: 400;
+  border-radius: 2px;
+  color: #ffbf00;
+  box-sizing: border-box;
+  background: rgba(255, 191, 0, 0.05);
+  border: 1px solid #ffbf00;
+  border-radius: 2px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  line-height: 15px;
+  margin-left: 150%;
+}
+
+.button1 {
+  font-family: "Roboto";
+  height: 26px;
+  width: 135px;
+  left: 0px;
+  top: 0px;
+  font-size: 11px;
+  font-weight: 400;
+  background-color: #ffbf00;
+  box-sizing: border-box;
+  border: 1px solid #ffbf00;
+  border-radius: 2px;
+  color: #121212;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  margin-left: 90%;
+}
+
+li img {
+  height: 14px;
+  width: 14px;
+  left: 308px;
+  top: 22px;
+  border-radius: 0px;
+}
+
+h4 {
+  color: white;
+  position: absolute;
+  width: 171px;
+  height: 13px;
+  left: 93px;
+  top: 179px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+}
+
+p {
+  color: #ffffff;
+  position: absolute;
+  width: 719px;
+  height: 108px;
+  left: 91px;
+  top: 201px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 54px;
+}
+
+p1 {
+  color: #ffffff;
+  position: absolute;
+  width: 471px;
+  height: 40px;
+  left: 91px;
+  top: 321px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -0.02em;
+}
+
+p2 {
+  color: #ffffff;
+  position: absolute;
+  width: 316px;
+  height: 25px;
+  left: 91px;
+  top: 400px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+}
+
+.contents ul li {
+  color: #ffffff;
+  position: absolute;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  text-decoration: underline 1px solid white;
+  list-style-type: none;
+}
+.contents ul li img {
+  background: #ffbf00;
+  box-shadow: 0px 1px 2px rgba(48, 79, 254, 0.54);
+  border-radius: 20px;
+}
+
+.gami {
+  width: 171px;
+  height: 13px;
+  left: 116px;
+  top: 442px;
+}
+.dist {
+  width: 171px;
+  height: 13px;
+  left: 116px;
+  top: 477px;
+}
+.auth {
+  width: 171px;
+  height: 13px;
+  left: 116px;
+  top: 512px;
+}
+.brand {
+  width: 171px;
+  height: 13px;
+  left: 304px;
+  top: 442px;
+}
+.int {
+  width: 171px;
+  height: 13px;
+  left: 304px;
+  top: 476px;
+}
+
+.button3 {
+  color: #121212;
+  background: #ffbf00;
+  border-radius: 2px;
+  border: none;
+  height: 37px;
+  width: 185px;
+  position: absolute;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 13px;
+  align-items: center;
+  text-align: center;
+  top: 85%;
+  left: 10%;
+}
+
+.enterprise-logo {
+  position: absolute;
+  width: 317px;
+  height: 396px;
+  left: 1038px;
+  top: 171px;
+}
+
+/* ----->  div-2  <----- */
+
+.container1 {
+  position: absolute;
+  background-color: white;
+  width: 1500px;
+  height: 300px;
+  margin: 100px;
+  left: 0px;
+  top: 610px;
+}
+
+.brands {
+  position: absolute;
+  left: 80px;
+  /* top: 69px; */
+}
+
+.flipkart {
+  position: absolute;
+  width: 127.76px;
+  height: 98px;
+  left: 69px;
+  top: 70px;
+}
+.isb {
+  position: absolute;
+  width: 126.75px;
+  height: 98px;
+  left: 250.07px;
+  top: 70px;
+}
+.myntra {
+  position: absolute;
+  width: 126.75px;
+  height: 97px;
+  left: 423.09px;
+  top: 72px;
+}
+.starsports {
+  position: absolute;
+  width: 125.74px;
+  height: 98px;
+  left: 594.1px;
+  top: 70px;
+}
+.vi {
+  position: absolute;
+  width: 126.75px;
+  height: 98px;
+  left: 765.12px;
+  top: 87px;
+}
+.unilever {
+  position: absolute;
+  width: 127.76px;
+  height: 99px;
+  left: 956.24px;
+  top: 69px;
+}
+
+.customers {
+  position: absolute;
+  color: #121212;
+  background: #ffbf00;
+  border-radius: 2px;
+  border: none;
+  width: 266px;
+  height: 41px;
+  left: 500px;
+  top: 185px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 13px;
+  align-items: center;
+  text-align: center;
+}
+
+/* -----> div-3  <-----  */
+.Gamification {
+  position: absolute;
+  width: 1500px;
+  height: 550px;
+  left: 0px;
+  top: 982px;
+  background: #f5f5f5;
+}
+
+.content-1 {
+  position: absolute;
+  width: 431px;
+  height: 268px;
+  left: 64px;
+  top: 45px;
+}
+
+.content-1 h4 {
+  position: absolute;
+  width: 171px;
+  height: 13.89px;
+  left: 67px;
+  top: 44.86px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #121212;
+}
+
+.content-1 p {
+  position: absolute;
+  width: 431px;
+  height: 76.9px;
+  left: 64px;
+  top: 67.29px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #121212;
+}
+
+.content-1 span {
+  position: absolute;
+  width: 390px;
+  height: 58px;
+  left: 5px;
+  top: 67px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+
+.content-1 ul .li-1 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 75px;
+  top: 210px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+  list-style: none;
+}
+
+.content-1 ul .li-2 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 75px;
+  top: 255px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+  list-style: none;
+}
+
+.content-1 ul .li-3 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 75px;
+  top: 295px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+  list-style: none;
+}
+
+.content-1 ul li img {
+  color: white;
+  background: #ffbf00;
+  box-shadow: 0px 1px 2px rgba(48, 79, 254, 0.54);
+  border-radius: 20px;
+}
+
+.content-1 .scale {
+  position: absolute;
+  width: 453px;
+  height: 340px;
+  left: 801px;
+  top: 39px;
+}
+
+/* -----> div-4 <----- */
+
+.Distribution {
+  position: absolute;
+  width: 1500px;
+  height: 550px;
+  left: 0px;
+  top: 1480px;
+  background: #ffffff;
+}
+
+.content-2 {
+  position: absolute;
+  width: 431px;
+  height: 268px;
+  left: 64px;
+  top: 45px;
+}
+
+.content-2 h4 {
+  position: absolute;
+  width: 171px;
+  height: 13.89px;
+  left: 67px;
+  top: 44.86px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #121212;
+}
+
+.content-2 p {
+  position: absolute;
+  width: 431px;
+  height: 76.9px;
+  left: 64px;
+  top: 67.29px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #121212;
+}
+
+.content-2 p span {
+  position: absolute;
+  width: 390px;
+  height: 58px;
+  left: 5px;
+  top: 70px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+
+.content-2 ul {
+  position: absolute;
+  width: 385px;
+  height: 110.24px;
+  left: 5px;
+  top: 30px;
+  list-style: none;
+}
+.content-2 ul .li-1 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 70px;
+  top: 202px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-2 ul .li-2 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 245px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-2 ul .li-3 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 300px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-2 .security {
+  position: absolute;
+  width: 453px;
+  height: 340px;
+  left: 803px;
+  top: 50px;
+}
+.content-2 ul li img {
+  color: white;
+  background: #ffbf00;
+  box-shadow: 0px 1px 2px rgba(48, 79, 254, 0.54);
+  border-radius: 20px;
+}
+
+/* -----> div-5 <----- */
+.Authoring {
+  position: absolute;
+  width: 1500px;
+  height: 550px;
+  left: 0px;
+  top: 2000px;
+  background: #f5f5f5;
+}
+
+.content-3 {
+  position: absolute;
+  width: 431px;
+  height: 268px;
+  left: 64px;
+  top: 45px;
+}
+
+.content-3 h4 {
+  position: absolute;
+  width: 171px;
+  height: 13.89px;
+  left: 67px;
+  top: 44.86px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #121212;
+}
+
+.content-3 p {
+  position: absolute;
+  width: 431px;
+  height: 76.9px;
+  left: 64px;
+  top: 67.29px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #121212;
+}
+
+.content-3 p span {
+  position: absolute;
+  width: 390px;
+  height: 58px;
+  left: 5px;
+  top: 70px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+
+.content-3 ul {
+  position: absolute;
+  width: 385px;
+  height: 110.24px;
+  left: 5px;
+  top: 30px;
+  list-style: none;
+}
+.content-3 ul .li-1 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 70px;
+  top: 202px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-3 ul .li-2 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 245px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-3 ul .li-3 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 300px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-3 ul .li-4 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 340px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+
+.content-3 .engagement {
+  position: absolute;
+  width: 460px;
+  height: 350px;
+  left: 801px;
+  top: 60px;
+}
+.content-3 ul li img {
+  color: white;
+  background: #ffbf00;
+  box-shadow: 0px 1px 2px rgba(48, 79, 254, 0.54);
+  border-radius: 20px;
+}
+
+/* -----> div-6 <----- */
+.Branding {
+  position: absolute;
+  width: 1500px;
+  height: 550px;
+  left: 0px;
+  top: 2500px;
+}
+
+.content-4 {
+  position: absolute;
+  width: 431px;
+  height: 268px;
+  left: 64px;
+  top: 45px;
+}
+
+.content-4 h4 {
+  position: absolute;
+  width: 171px;
+  height: 13.89px;
+  left: 67px;
+  top: 45px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #121212;
+}
+
+.content-4 p {
+  position: absolute;
+  width: 431px;
+  height: 76.9px;
+  left: 64px;
+  top: 68px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #121212;
+}
+
+.content-4 p span {
+  position: absolute;
+  width: 390px;
+  height: 58px;
+  left: 5px;
+  top: 70px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+
+.content-4 ul {
+  position: absolute;
+  width: 385px;
+  height: 110.24px;
+  left: 5px;
+  top: 30px;
+  list-style: none;
+}
+.content-4 ul .li-1 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 70px;
+  top: 202px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-4 ul .li-2 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 245px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-4 ul .li-3 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 300px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-4 .platform {
+  position: absolute;
+  width: 460px;
+  height: 350px;
+  left: 800px;
+  top: 70px;
+}
+.content-4 ul li img {
+  color: white;
+  background: #ffbf00;
+  box-shadow: 0px 1px 2px rgba(48, 79, 254, 0.54);
+  border-radius: 20px;
+}
+
+/* -----> div-7 <----- */
+.Interactivity {
+  position: absolute;
+  width: 1500px;
+  height: 550px;
+  left: 0px;
+  top: 3000px;
+  background: #f5f5f5;
+}
+
+.content-5 {
+  position: absolute;
+  width: 430px;
+  height: 260px;
+  left: 64px;
+  top: 50px;
+}
+
+.content-5 h4 {
+  position: absolute;
+  width: 171px;
+  height: 13.89px;
+  left: 67px;
+  top: 55px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #121212;
+}
+
+.content-5 p {
+  position: absolute;
+  width: 431px;
+  height: 76.9px;
+  left: 64px;
+  top: 90px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: #121212;
+}
+
+.content-5 p span {
+  position: absolute;
+  width: 390px;
+  height: 58px;
+  left: 5px;
+  top: 80px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+
+.content-5 ul {
+  position: absolute;
+  width: 385px;
+  height: 110.24px;
+  left: 5px;
+  top: 30px;
+  list-style: none;
+}
+.content-5 ul .li-1 {
+  position: absolute;
+  width: 357px;
+  height: 27px;
+  left: 70px;
+  top: 202px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-5 ul .li-2 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 245px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-5 ul .li-3 {
+  position: absolute;
+  width: 316px;
+  height: 27px;
+  left: 70px;
+  top: 300px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #333333;
+}
+.content-5 .slack-connect {
+  position: absolute;
+  width: 460px;
+  height: 350px;
+  left: 800px;
+  top: 70px;
+}
+.content-5 ul li img {
+  color: white;
+  background: #ffbf00;
+  box-shadow: 0px 1px 2px rgba(48, 79, 254, 0.54);
+  border-radius: 20px;
+}
+
+/* -----> div-8 <----- */
+.cards {
+  position: absolute;
+  width: 1500px;
+  height: 590px;
+  left: 1px;
+  top: 3500px;
+  background: #ffbf00;
+}
+.content-6 h4 {
+  position: absolute;
+  width: 450px;
+  height: 55px;
+  left: 500px;
+  top: 60px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 54px;
+  align-items: center;
+  text-align: center;
+  color: #333333;
+}
+.cards-overlay {
+  position: absolute;
+  width: 1050px;
+  height: 345px;
+  left: 150px;
+  top: 50px;
+}
+.cards-overlay .card-1 {
+  position: absolute;
+  width: 226px;
+  height: 343px;
+  left: 50px;
+  top: 165px;
+}
+.cards-overlay .card-2 {
+  position: absolute;
+  width: 226px;
+  height: 343px;
+  left: 325px;
+  top: 165px;
+}
+.cards-overlay .card-3 {
+  position: absolute;
+  width: 226px;
+  height: 343px;
+  left: 600px;
+  top: 165px;
+}
+.cards-overlay .card-4 {
+  position: absolute;
+  width: 226px;
+  height: 343px;
+  left: 875px;
+  top: 165px;
+}
+
+/* -----> div-9 <----- */
+.faq {
+  position: absolute;
+  width: 1500px;
+  height: 680px;
+  left: 4px;
+  top: 4100px;
+}
+.accordion {
+  position: absolute;
+  top: 200px;
+  width: 1400px;
+  left: 50px;
+  color: #121212;
+}
+.accordion-flush {
+  color: 121212;
+}
+.faq .header {
+  position: absolute;
+  width: 605px;
+  height: 54px;
+  left: 450px;
+  top: 80px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 54px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #121212;
+}
+
+.accordion-item .accordion-header {
+  /* position: absolute; */
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -0.02em;
+  color: #121212;
+  transform: rotate(0.01deg);
+}
+
+.accordion-header .arrow {
+  position: absolute;
+  width: 19.97px;
+  right: 80.86px;
+  /* top: 177px; */
+  bottom: 464px;
+  margin-left: 95%;
+}
+.accordion-header .arrow1 {
+  position: absolute;
+  width: 19.97px;
+  right: 80.86px;
+  /* top: 177px; */
+  margin-bottom: 5%;
+  bottom: 464px;
+  margin-left: 95%;
+}
+.accordion-header .arrow2 {
+  position: absolute;
+  width: 19.97px;
+  right: 80.86px;
+  /* top: 177px; */
+  margin-bottom: 5%;
+  bottom: 464px;
+  margin-left: 95%;
+}
+.accordion-header .arrow3 {
+  position: absolute;
+  width: 19.97px;
+  right: 80.86px;
+  /* top: 177px; */
+  margin-bottom: 5%;
+  bottom: 464px;
+  margin-left: 95%;
+}
+.accordion-header .arrow4 {
+  position: absolute;
+  width: 19.97px;
+  right: 80.86px;
+  /* top: 177px; */
+  margin-bottom: 5%;
+  bottom: 464px;
+  margin-left: 95%;
+}
+
+/* -----> div-10 <----- */
+.ellipse .semi {
+  position: absolute;
+  width: 1500px;
+  height: 300px;
+  left: 0px;
+  top: 0px;
+}
+
+.ellipse h1 {
+  position: absolute;
+  width: 437px;
+  height: 54px;
+  left: 550px;
+  top: 50px;
+  font-family: "Oswald Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 54px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+.ellipse .btn1 {
+  position: absolute;
+  width: 240px;
+  height: 40px;
+  left: 550px;
+  top: 150px;
+  color: #121212;
+  background: #FFBF00;
+  border-radius: 2px;
+  border: none;
+  height: 37px;
+  width: 185px;
+  position: absolute;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.ellipse .btn2 {
+  position: absolute;
+  width: 220px;
+  height: 40px;
+  left: 780px;
+  top: 150px;
+  background: rgba(255, 191, 0, 0.05);
+  border: 1px solid #ffbf00;
+  border-radius: 2px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #454545;
+}
+.footer {
+  background-color: #454545;
+  box-sizing: border-box;
+  position: absolute;
+  width: 1500px;
+  height: 900px;
+  left: -48px;
+  top: 4700px;
+  background: #454545;
+  border: 1px solid #454545;
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer1 {
+  position: absolute;
+  margin-top: 25%;
+  margin-left: 30%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer2 {
+  position: absolute;
+  /* width: 1500px; */
+  height: 0px;
+  left: 17px;
+  top: 750px;
+  display: flex;
+  /* margin: 18px;  */
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  border: 0.544653px solid #454545;
+}
+
+.footer2 p {
+  position: absolute;
+  width: 456px;
+  height: 39.35px;
+  left: 15px;
+  top: 70px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+  color: #efefef;
+  border: 1px solid #454545;
+}
+
+.footer .logo {
+  position: absolute;
+  height: 146px;
+  width: 156px;
+  left: 150px;
+  top: 380px;
+  border-radius: 0px;
+}
+.footer .vector {
+  position: absolute;
+  width: 1400px;
+  height: 0px;
+  left: 40px;
+  top: 700px;
+  border: 1px solid #AAAAAA;
+}
+.list-header {
+  color: white;
+  top: 10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 15px;
+  letter-spacing: -0.02em;
+}
+
+li {
+  color: white;
+  list-style: none;
+  margin: 10px;
+}
+
+.footer-content {
+  color: white;
+  font-size: 20px;
+}
+
+.accordion-item h2 {
+  font-family: "Roboto";
+  font-size: 88px;
+  color: white;
+}
+
+.icons {
+  position: absolute;
+  left: 700px;
+  top: 40px;
+}
+
+.facebook {
+  position: absolute;
+  width: 24px;
+  height: 22.49px;
+  left: 410px;
+  /* top: 6916px; */
+}
+
+.twitter {
+  position: absolute;
+  width: 24px;
+  height: 22.49px;
+  left: 480px;
+  /* top: 6916px; */
+}
+
+.instagram {
+  position: absolute;
+  width: 24px;
+  height: 22.49px;
+  left: 540px;
+  /* top: 6916px; */
+}
+
+.youtube {
+  position: absolute;
+  width: 24px;
+  height: 22.49px;
+  left: 610px;
+  /* top: 6916px; */
+}
+
+.linkedin {
+  position: absolute;
+  width: 24px;
+  height: 22.49px;
+  left: 670px;
+  /* top: 6916px; */
+}
